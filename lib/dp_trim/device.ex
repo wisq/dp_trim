@@ -12,7 +12,7 @@ defmodule DpTrim.Device do
 
   # Take-off trim in MSFS is 3% down, but that's out of a max trim of 22%.
   # This also seems to match the "TAKE OFF" indicator on the yoke itself.
-  @takeoff round(@max * (-0.03 / 0.22))
+  @takeoff round(@min * (0.03 / 0.22))
 
   # The motorised wheel has values from 634 (nose up) to 1110 (nose down) inclusive:
   @wheel_min 634
