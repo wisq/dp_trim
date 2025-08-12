@@ -54,3 +54,11 @@ Note that, depending on your settings, you may not feel any forces until airborn
 ## Limitations
 
 The trim setting in the simulator **will not change**, nor will the angle of the rendered trim tab.  This is by design — we are bypassing the simulator and performing trimming on the yoke itself.
+
+## Legal stuff
+
+Copyright © 2025, Adrian Irving-Beer.
+
+DpTrim is released under the [MIT license](LICENSE) and is provided with **no warranty**.  I'm not responsible if your simulated plane crashes, your force feedback yoke punches you in the stomach, your trim wheel catches fire, etc.
+
+DpTrim is not developed by Desktop Pilot, or by Brunner, and is in no way associated with either of them.  All trademarks are the property of their respective owners.
