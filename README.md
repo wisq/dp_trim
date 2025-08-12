@@ -44,7 +44,7 @@ Once active, you can begin to make inputs:
 
 - Turning the wheel upwards will increase the forward (nose down) force on the yoke.
 - Turning the wheel downwards will increase the backwards (nose up) force on the yoke.
-- Turning the sensitivity knob left will reset you to the default (take off) trim.
+- Turning the sensitivity knob left will reset you to the default (takeoff) trim.
   - This is designed for use in VR, when you can't see the setting in order to reset it.
 
 The default sensitivity is designed to mimic the real Cessna 172, and thus I decided to use the sensitivity knob for other actions.  If you want to change this, edit the values in [device.ex](lib/device.ex).
