@@ -47,7 +47,7 @@ Once active, you can begin to make inputs:
 - Turning the sensitivity knob left will reset you to the default (takeoff) trim.
   - This is designed for use in VR, when you can't see the setting in order to reset it.
 
-The default sensitivity is designed to mimic the real Cessna 172, and thus I decided to use the sensitivity knob for other actions.  If you want to change this, edit the values in [device.ex](lib/device.ex).
+The default sensitivity is designed to mimic the real Cessna 172, and thus I decided to use the sensitivity knob for other actions.  If you want to change this, edit the values in [device.ex](lib/dp_trim/device.ex).
 
 Note that, depending on your settings, you may not feel any forces until airborne, or at least until there's air running over the elevator, e.g. from prop wash.
 
